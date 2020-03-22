@@ -1,4 +1,6 @@
 # Gazebo simulation environment
+![overview](myhouse.png)
+
 ## Overview
 This repo is inspired by the official tutorials on the gazebo website, mainly [model editor](http://gazebosim.org/tutorials?tut=guided_b3), and [world plugin](http://gazebosim.org/tutorials?tut=plugins_hello_world&cat=write_plugin) considering the following structure of gazebo components.
 gazebo environment has:
